@@ -1,4 +1,4 @@
-# Witam 👋
+## Witam 👋
 
 Nazywam się Zuzanna i jestem studentką 3. roku <b>Inżynierii i Analizy Danych na AGH w Krakowie</b>.
 
