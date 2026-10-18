@@ -7,7 +7,7 @@ Interesuje mnie <b>uczenie maszynowe i AI</b>, a szczególnie ich zastosowanie w
 ### Technologie i Narzędzia
 - <b>Języki programowania:</b> Python, R, C, C++, SQL
 - <b>Narzędzia:</b> Git, GitHub, Linux, Jupyter Notebook
-- <b>Aktualnie uczę się:</b> Azure, JAVA, PHP
+- <b>Aktualnie uczę się:</b> Azure, JAVA, PHP, PyCharm
 
 <!--
 **zuzannalachowska/zuzannalachowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
