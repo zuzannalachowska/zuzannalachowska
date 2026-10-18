@@ -2,7 +2,7 @@
 
 Nazywam się Zuzanna i jestem studentką 3. roku <b>Inżynierii i Analizy Danych na AGH w Krakowie</b>.
 
-Interesuje mnie zarówno <b>uczenie maszynowe i AI</b>, a szczególnie ich zastosowanie w dziedzinie medycyny, jak i <b>technologia IoT</b>, z której odbyłam siedmiodniowy kurs w Koszycach na Słowacji w lipcu 2026 roku.
+Interesuje mnie <b>uczenie maszynowe i AI</b>, a szczególnie ich zastosowanie w dziedzinie medycyny, jak i <b>technologia IoT</b>, z której odbyłam siedmiodniowy kurs w Koszycach na Słowacji w lipcu 2026 roku.
 
 ### Technologie i Narzędzia
 - <b>Języki programowania:</b> Python, R, C, C++, SQL
