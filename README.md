@@ -2,12 +2,12 @@
 
 Nazywam się Zuzanna i jestem studentką 3. roku <b>Inżynierii i Analizy Danych na AGH w Krakowie</b>.
 
-Interesuje mnie <b>uczenie maszynowe i AI</b>, a szczególnie ich zastosowanie w dziedzinie medycyny, jak i <b>technologia IoT</b>, z której odbyłam siedmiodniowy kurs w Koszycach na Słowacji w lipcu 2026 roku.
+Interesuje mnie <b>uczenie maszynowe i AI</b>, a szczególnie ich zastosowanie w dziedzinie medycyny, jak i <b>technologia IoT</b>.
 
 ### Technologie i Narzędzia
-- <b>Języki programowania:</b> Python, R, C, C++, SQL
-- <b>Narzędzia:</b> Git, GitHub, Linux, Jupyter Notebook
-- <b>Aktualnie uczę się:</b> Azure, JAVA, PHP, PyCharm
+- <b>Języki programowania:</b> Python, SQL, R, C++ 
+- <b>Narzędzia:</b> GitHub, Linux, Jupyter Notebook
+- <b>Aktualnie uczę się:</b> Azure, PyCharm
 
 <!--
 **zuzannalachowska/zuzannalachowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
